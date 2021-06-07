@@ -1,2 +1,2 @@
 # This is my first day in ALX!
-We can do this.Discovering vagrant
+We can do this.
