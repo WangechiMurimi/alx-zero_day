@@ -1,2 +1,1 @@
-# Starting out with Git
-First Git lesson
+Starting out with Git
