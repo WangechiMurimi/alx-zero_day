@@ -1,1 +1,1 @@
-Starting out with Git
+I am learning git through various projects
